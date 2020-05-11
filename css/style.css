@@ -13,7 +13,7 @@ body {
 .masthead {
   padding: 6em 0;
   background-image: url('../img/favicon.jpg');
-  background-size: auto 100%;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
