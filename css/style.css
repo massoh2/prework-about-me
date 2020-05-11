@@ -13,8 +13,9 @@ body {
 .masthead {
   padding: 6em 0;
   background-image: url('../img/favicon1.jpg');
-  background-size: auto;
+  background-size: 300px 50px;
   background-repeat: no-repeat;
+  background-position: center; 
 }
 
 .masthead-intro {
